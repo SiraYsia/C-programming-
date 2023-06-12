@@ -1,5 +1,4 @@
-#Yeabsira Tamiru
-#117857740
+
 
 .text
 is_palindrome:
