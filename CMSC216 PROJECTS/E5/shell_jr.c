@@ -1,6 +1,4 @@
-/*Yeabsira Tamiru
-117857740*/
-/*
+
 
 You should start by creating a loop that reads lines and displays them. Then you
 should begin to process each command (starting with the exit and cd commands).
