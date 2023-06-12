@@ -1,8 +1,4 @@
-/*
-Yeabsira Tamiru 
-117857740
-Herve gave me a 24 extension 
-*/
+
 #include <stdio.h>
 #include <string.h>
 #include "text_manipulation.h"
