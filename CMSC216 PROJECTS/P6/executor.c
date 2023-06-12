@@ -1,6 +1,4 @@
-/*117857740
-Yeabsira Tamiru
-*/
+
 
 #include "executor.h"
 #include "command.h"
