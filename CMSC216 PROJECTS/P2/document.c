@@ -1,6 +1,4 @@
-/* Yeabsira Tamiru
-ID- 117857740
-*/
+
 
 #include "document.h"
 #include <stdio.h>
