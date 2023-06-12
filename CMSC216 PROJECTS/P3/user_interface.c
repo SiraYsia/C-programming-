@@ -1,6 +1,4 @@
-/* Yeabsira Tamiru
-117857740
-*/
+
 
 #include "document.h"
 #include <ctype.h>
