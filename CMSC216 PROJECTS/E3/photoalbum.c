@@ -1,5 +1,4 @@
-/*Yeabsira Tamiru
-ID - 117857740*/
+
 
 #include "photoalbum.h"
 #include <stdio.h>
