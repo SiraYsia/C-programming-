@@ -1,5 +1,3 @@
-#Yeabsira Tamiru
-#117857740
 
 # max(x, y)
 
