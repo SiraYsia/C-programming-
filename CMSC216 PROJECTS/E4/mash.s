@@ -1,5 +1,4 @@
-#Yeabsira Tamiru
-#117857740
+
 
 # mash(x, y)
 
