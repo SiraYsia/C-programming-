@@ -1,7 +1,4 @@
-/*
-Yeabsira Tamiru
-1117857740
-*/
+
 
 #include "calendar.h"
 #include "event.h"
